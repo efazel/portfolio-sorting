@@ -2,7 +2,7 @@
 ################### FUNCTION portfosort #########################
 ## Author: Ehsan Fazel (Concordia University)                  ##
 ## This version: November 2019                                 ##
-## I used the package "[portsort]"(https://cran.r-project.org/web/packages/portsort/index.html) in R as a reference:          ##
+## I used the package "[portsort](https://cran.r-project.org/web/packages/portsort/index.html)" in R as a reference:          ##
 ##  ##
 ##                                                             ##
 ## portfosort computes univariate sorting portfolios sorted    ##

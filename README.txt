@@ -22,7 +22,7 @@
 ##                                                             ##
 ##                                                             ##
 ## Take note that the exrtn or the excess return panel must    ##
-## have one period ahead of the time dimension of the factors  ##
+## have one period ahead of the time dimension of factors      ##
 ## so that forward returns could be constructed.               ##        
 #################################################################
 #################################################################

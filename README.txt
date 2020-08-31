@@ -1,12 +1,12 @@
 #################################################################
-################### FUNCTION portfosort #########################
+###################### FUNCTION portfosort ######################
 ## Author: Ehsan Fazel (Concordia University)                  ##
 ## This version: November 2019                                 ##
 ## I used the package "portsort" in R as a reference:          ##
 ## https://cran.r-project.org/web/packages/portsort/index.html ##
 ##                                                             ##
 ## portfosort computes univariate sorting portfolios sorted    ##
-## on the factor beta for only 2 factors.                      ##
+## on factor betas for 2 factors.                              ##
 ##                                                             ##
 ## Input 1 (exrtn): a panel of N excess common stock return    ##
 ## (T by N).                                                   ##

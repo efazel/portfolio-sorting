@@ -15,7 +15,7 @@
 ## Input 4 (fnum): select the factor to sort on. Either 1 or 2 ##
 ##                                                             ##
 ##                                                             ##
-## Output 1 (prtf): tercile portfolio sorted on the factor     ##
+## Output 1 (prtf): tercile portfolios sorted on the factor    ##
 ## beta                                                        ##
 ## Output 2 (rtns): stored returns in each portfolio           ##
 ## Output 3 (tkrs): stored tickers (indeces) in each portfolio ##
